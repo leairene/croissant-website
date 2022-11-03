@@ -11,6 +11,10 @@ p {
   text-align: center;
 }
 
+a {
+  color: black;
+}
+
 .index-img {
   display: block;
   margin: 0 auto;
