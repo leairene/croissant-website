@@ -1,3 +1,11 @@
 .index-img {
     max-width: 800px;
 }
+
+.photo-container {
+    margin-top: 60px;
+}
+
+.croissant-photo { 
+    max-width: 300px;
+}
